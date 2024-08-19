@@ -11,5 +11,5 @@ This project focuses on analyzing the Women's Clothing Dataset with the followin
 7. **Top Revenue Days:** Identify the days with the highest revenue during the four-month period.
 8. **Top Weekly Revenue:** Analyze weekly revenue to determine which week generated the highest sales within the four months.
 9. **Top 3 Performers by Revenue:** Highlight the top 3 performers in terms of revenue by day, week, and month.
-10. **Order Volume Leaders:** Identify the days, weeks, and months with the highest order volumes.
+10. **Top 3 Order Volume Leaders:** Identify the top three days, weeks, and months with the highest order volumes.
 11. **Sales Contribution by Product Color:** Analyze the contribution of each product color to overall sales.
