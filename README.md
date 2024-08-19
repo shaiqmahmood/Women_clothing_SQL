@@ -1,6 +1,6 @@
 # Women's Clothing Dataset Analysis Using PostgreSQL
 
-This project focuses on analyzing the Women's Clothing [Dataset](https://www.kaggle.com/datasets/shilongzhuang/-women-clothing-ecommerce-sales-data) with the following objectives:
+This project focuses on analyzing the Women's Clothing <a href="https://www.kaggle.com/datasets/shilongzhuang/-women-clothing-ecommerce-sales-data" target="_blank">Dataset</a> with the following objectives:
 
 1. **Revenue Distribution Over Four Months:** Analyze the revenue distribution to identify the month with the highest sales.
 2. **Top-Performing Products:** Aggregate revenue by SKU to determine which products generate the most sales.
